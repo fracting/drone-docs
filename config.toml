@@ -1,4 +1,4 @@
-baseurl = "http://fracting.github.io/docs/"
+baseurl = "http://docs.tea-ci.org/"
 languageCode = "en-us"
 title = "Drone"
 
