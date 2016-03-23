@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paas on Drone</title>
-    <link>http://fracting.github.io/docs/tags/paas/</link>
+    <link>http://docs.tea-ci.org/tags/paas/</link>
     <description>Recent content in Paas on Drone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Feb 2016 08:37:52 +0000</lastBuildDate>
-    <atom:link href="http://fracting.github.io/docs/tags/paas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://docs.tea-ci.org/tags/paas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ContainerShip</title>
-      <link>http://fracting.github.io/docs/plugins/containership/</link>
+      <link>http://docs.tea-ci.org/plugins/containership/</link>
       <pubDate>Sun, 21 Feb 2016 08:37:52 +0000</pubDate>
       
-      <guid>http://fracting.github.io/docs/plugins/containership/</guid>
+      <guid>http://docs.tea-ci.org/plugins/containership/</guid>
       <description>
 
 &lt;p&gt;Use this plugin for deploying an application to &lt;a href=&#34;https://containership.io&#34;&gt;ContainerShip&lt;/a&gt;.
@@ -45,10 +45,10 @@ You can override the default configuration with the following parameters:&lt;/p&
     
     <item>
       <title>ECS</title>
-      <link>http://fracting.github.io/docs/plugins/ecs/</link>
+      <link>http://docs.tea-ci.org/plugins/ecs/</link>
       <pubDate>Sat, 13 Feb 2016 09:01:44 +0000</pubDate>
       
-      <guid>http://fracting.github.io/docs/plugins/ecs/</guid>
+      <guid>http://docs.tea-ci.org/plugins/ecs/</guid>
       <description>
 
 &lt;p&gt;Use this plugin for deploying a docker container application to AWS EC2 Container Service (ECS).&lt;/p&gt;
@@ -92,10 +92,10 @@ You can override the default configuration with the following parameters:&lt;/p&
     
     <item>
       <title>Engine Yard</title>
-      <link>http://fracting.github.io/docs/plugins/engineyard/</link>
+      <link>http://docs.tea-ci.org/plugins/engineyard/</link>
       <pubDate>Sat, 13 Feb 2016 09:00:52 +0000</pubDate>
       
-      <guid>http://fracting.github.io/docs/plugins/engineyard/</guid>
+      <guid>http://docs.tea-ci.org/plugins/engineyard/</guid>
       <description>
 
 &lt;p&gt;Use this plugin for deplying an application to Engine Yard. You can override the
@@ -115,10 +115,10 @@ default configuration with the following parameters:&lt;/p&gt;
     
     <item>
       <title>Elastic Beanstalk</title>
-      <link>http://fracting.github.io/docs/plugins/elastic_beanstalk/</link>
+      <link>http://docs.tea-ci.org/plugins/elastic_beanstalk/</link>
       <pubDate>Sat, 13 Feb 2016 09:00:25 +0000</pubDate>
       
-      <guid>http://fracting.github.io/docs/plugins/elastic_beanstalk/</guid>
+      <guid>http://docs.tea-ci.org/plugins/elastic_beanstalk/</guid>
       <description>
 
 &lt;p&gt;Use this plugin for deplying an application to AWS Elastic Beanstalk. You can
@@ -159,10 +159,10 @@ override the default configuration with the following parameters:&lt;/p&gt;
     
     <item>
       <title>Cloud Foundry</title>
-      <link>http://fracting.github.io/docs/plugins/cloudfoundry/</link>
+      <link>http://docs.tea-ci.org/plugins/cloudfoundry/</link>
       <pubDate>Sat, 13 Feb 2016 08:59:58 +0000</pubDate>
       
-      <guid>http://fracting.github.io/docs/plugins/cloudfoundry/</guid>
+      <guid>http://docs.tea-ci.org/plugins/cloudfoundry/</guid>
       <description>
 
 &lt;p&gt;Use this plugin for deplying an application to Cloud Foundry. You can override
@@ -325,10 +325,10 @@ the default configuration with the following parameters:&lt;/p&gt;
     
     <item>
       <title>Anynines</title>
-      <link>http://fracting.github.io/docs/plugins/anynines/</link>
+      <link>http://docs.tea-ci.org/plugins/anynines/</link>
       <pubDate>Sat, 13 Feb 2016 08:59:49 +0000</pubDate>
       
-      <guid>http://fracting.github.io/docs/plugins/anynines/</guid>
+      <guid>http://docs.tea-ci.org/plugins/anynines/</guid>
       <description>
 
 &lt;p&gt;Use this plugin for deplying an application to Anynines. You can override the
